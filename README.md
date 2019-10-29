@@ -7,6 +7,7 @@
   > Deliverable: Slack a screenshot of the resource in the browser. 
   
   *Example 1:* <img src="index.png" width="400" alt="/pirates">
+  
   *Example 2:* <img src="show.png" width="400" alt="/pirates/:id">
 
 
