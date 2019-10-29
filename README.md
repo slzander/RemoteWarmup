@@ -10,7 +10,7 @@
 1. With a model of your choice create a Rails API with a resource that lists at least 10 seeded data entries. 
   > Deliverable: Commit and push code to github and slack me the url. 
   
-2. Create a resource that shows one data set at a time. 
+2. Stretch: Create a resource that shows one data set at a time. 
   > Deliverable: Commit and push code to github and slack me the url.  
   
   *Example 1:* <img src="index.png" width="400" alt="/pirates">
