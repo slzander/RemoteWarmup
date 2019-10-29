@@ -6,8 +6,7 @@
 2. Create a resource that shows one data set at a time. 
   > Deliverable: Slack a screenshot of the resource in the browser. 
   
-  *Example 1:* ![/pirates](index.png) 
-  <img src="index.png" width="100">
-  *Example 2:* ![/pirates/:id](show.png) 
+  *Example 1:* <img src="index.png" width="400" alt="/pirates">
+  *Example 2:* <img src="show.png" width="400" alt="/pirates/:id">
 
 
